@@ -8,7 +8,6 @@
 - Lab 6: Getting Started on Project 2-21sp
 - Lab 7: BST Map-21sp
 - Lab 8: Hash Map21-sp
-- Lab 9 : Tree Maps vs. Hash Maps-18sp
 - Lab 10 : Priority Queues and Heaps-18sp
 - Lab 11 : Graphs-18sp
 - Lab 12 : Merge and Quick Sorts-18sp
