@@ -11,3 +11,15 @@ BST<-->2-3-Tree
    \\   \/
    \\ \/
 Red-Black-Trees
+
+Hash Table
+	|
+	|
+hashcode()
+
+PQ -> Heap -- Stack
+![[D1.png]]
+![[D2.png]]
+![[D3.png]]
+![[D4.png]]
+![[D5.png]]

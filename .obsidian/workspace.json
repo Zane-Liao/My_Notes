@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "e72409b6117d2345",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ee5a0a2383193b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccdb47733f3dd8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dceeffb0aa2bbe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b241b832e47a717",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f5996a90ce2757",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5dc9077674db7d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"第 2节：编程基础知识\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83df0f4c599abe7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "11068ca0fc8cf9c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "03171c4ef5f19829",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af05a4551b43b6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54f6f3a9baf07f6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5822dbe28ada7904",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "409916c4da111dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ccdb47733f3dd8a3",
+  "lastOpenFiles": [
+    "LLM/Transformer.md",
+    "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+    "CSdiynote/JAVA(CS61B)/Photo/D2.png",
+    "CSdiynote/JAVA(CS61B)/Photo/D1.png",
+    "CSdiynote/JAVA(CS61B)/Photo/D5.png",
+    "CSdiynote/JAVA(CS61B)/Photo/D4.png",
+    "CSdiynote/JAVA(CS61B)/Photo/D3.png",
+    "LLM/RLHF.md",
+    "LLM/RAG.md",
+    "LLM/PEFT.md",
+    "LLM/LLM Parameter Adjustment.md",
+    "LLM/Fine Tuning.md",
+    "LLM/All you Need.png",
+    "CSdiynote/JAVA(CS61B)/Photo",
+    "CSdiynote/JAVA(CS61B)/Disjoint Sets.md",
+    "CSdiynote/JAVA(CS61B)/BT-BST.md",
+    "CSdiynote/JAVA(CS61B)/equals and contains.md",
+    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+    "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
+    "CSdiynote/JAVA(CS61B)/Red-Black-Tree.md",
+    "CSdiynote/JAVA(CS61B)/Tests.md",
+    "CSdiynote/JAVA(CS61B)/Stack.md",
+    "CSdiynote/JAVA(CS61B)/pptx.md",
+    "CSdiynote/JAVA(CS61B)/Hashcode.md",
+    "CSdiynote/JAVA(CS61B)/Function.md",
+    "CSdiynote/JAVA(CS61B)/Asymptotics.md",
+    "CSdiynote/JAVA(CS61B)/Asy.md",
+    "CSdiynote/JAVA(CS61B)/Hash-Code.md",
+    "CSdiynote/JAVA(CS61B)/pptx补充.md",
+    "Note/Markdown.md",
+    "MOOCnote/Algorithms/Algorithms part1.md",
+    "MOOCnote/Data Science(Harvard)/Data Sciense and Data enginner.md",
+    "MOOCnote/Data Science(Harvard)/关于解决数据科学问题和开发解决问题之间的区别.md",
+    "未命名.canvas",
+    "LLM",
+    "MOOCnote/未命名",
+    "MOOCnote/Machine Learning/Problems(DP)",
+    "MOOCnote/Algorithms",
+    "MOOCnote/Math/DS_ML_Math(Ng)",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)",
+    "MOOCnote/Machine Learning/Andnew Ng(ML)",
+    "MOOCnote/Machine Learning/Andnew Ng(ML)/unsupervised ML",
+    "MOOCnote/Machine Learning/Andnew Ng(ML)/Advanced  AL",
+    "MOOCnote/Data Science(Harvard)/Code Cook/2024-07-13 00_09_34-数据科学简介 - 4 连续概率.png"
+  ]
+}
