@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+                "file": "CSdiynote/JAVA(CS61B)/Graph.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b58a95ca4dbe3a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9a6f4eb36d09025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Data Structure-G.md"
+                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md"
               }
             }
           }
@@ -146,8 +171,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ccdb47733f3dd8a3",
+  "active": "e9a6f4eb36d09025",
   "lastOpenFiles": [
+    "CSdiynote/JAVA(CS61B)/Graph.md",
+    "selfideas.md",
+    "README.md",
+    "Ideas/2024.8.15-8.22.md",
+    "Ideas",
+    "csdiy.md",
+    "CSdiynote/关于量化金融.md",
+    "CSdiynote/JAVA(CS61B)/未命名.md",
     "LLM/Transformer.md",
     "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
@@ -174,13 +207,6 @@
     "CSdiynote/JAVA(CS61B)/Hashcode.md",
     "CSdiynote/JAVA(CS61B)/Function.md",
     "CSdiynote/JAVA(CS61B)/Asymptotics.md",
-    "CSdiynote/JAVA(CS61B)/Asy.md",
-    "CSdiynote/JAVA(CS61B)/Hash-Code.md",
-    "CSdiynote/JAVA(CS61B)/pptx补充.md",
-    "Note/Markdown.md",
-    "MOOCnote/Algorithms/Algorithms part1.md",
-    "MOOCnote/Data Science(Harvard)/Data Sciense and Data enginner.md",
-    "MOOCnote/Data Science(Harvard)/关于解决数据科学问题和开发解决问题之间的区别.md",
     "未命名.canvas",
     "LLM",
     "MOOCnote/未命名",
@@ -190,7 +216,6 @@
     "MOOCnote/Data Science(Harvard)/Harvard X(edx)",
     "MOOCnote/Machine Learning/Andnew Ng(ML)",
     "MOOCnote/Machine Learning/Andnew Ng(ML)/unsupervised ML",
-    "MOOCnote/Machine Learning/Andnew Ng(ML)/Advanced  AL",
     "MOOCnote/Data Science(Harvard)/Code Cook/2024-07-13 00_09_34-数据科学简介 - 4 连续概率.png"
   ]
 }
