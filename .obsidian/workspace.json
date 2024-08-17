@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+                "file": "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+                "file": "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+                "file": "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md"
+                "file": "CSdiynote/JAVA(CS61B)/PriorityQueue.md"
               }
             }
           }
@@ -173,14 +173,16 @@
   },
   "active": "e9a6f4eb36d09025",
   "lastOpenFiles": [
+    "CSdiynote/JAVA(CS61B)/Dijkstra.md",
+    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
     "CSdiynote/JAVA(CS61B)/Graph.md",
+    "CSdiynote/JAVA(CS61B)/pptx.md",
     "selfideas.md",
     "README.md",
     "Ideas/2024.8.15-8.22.md",
     "Ideas",
     "csdiy.md",
     "CSdiynote/关于量化金融.md",
-    "CSdiynote/JAVA(CS61B)/未命名.md",
     "LLM/Transformer.md",
     "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
@@ -198,12 +200,10 @@
     "CSdiynote/JAVA(CS61B)/Disjoint Sets.md",
     "CSdiynote/JAVA(CS61B)/BT-BST.md",
     "CSdiynote/JAVA(CS61B)/equals and contains.md",
-    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
     "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
     "CSdiynote/JAVA(CS61B)/Red-Black-Tree.md",
     "CSdiynote/JAVA(CS61B)/Tests.md",
     "CSdiynote/JAVA(CS61B)/Stack.md",
-    "CSdiynote/JAVA(CS61B)/pptx.md",
     "CSdiynote/JAVA(CS61B)/Hashcode.md",
     "CSdiynote/JAVA(CS61B)/Function.md",
     "CSdiynote/JAVA(CS61B)/Asymptotics.md",
