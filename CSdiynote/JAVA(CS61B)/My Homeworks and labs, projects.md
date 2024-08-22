@@ -2,7 +2,6 @@
 - Lab 1: Welcome to Java-21sp
 - Lab 2 : Unit Testing with JUnit and IntLists-18sp
 - Lab 3 : Testing, Debugging-18sp
-- Lab 4: Git Exercise Part A-21sp
 - Lab 7: BST Map-21sp
 - Lab 8: Hash Map21-sp
 - Lab 10 : Priority Queues and Heaps-18sp
