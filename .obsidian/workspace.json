@@ -37,14 +37,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+                "file": "CSdiynote/JAVA(CS61B)/pptx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec2c6c3aa7264b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ab4180c6f26775b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ad1ee775f4003a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f8ab9f201b02c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gameplay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48a00c9564787dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86e432c9f96fb3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+                "file": "Computer Graphics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+                "file": "Computer Graphics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md"
+                "file": "Computer Graphics.md"
               }
             }
           }
@@ -171,35 +243,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e9a6f4eb36d09025",
+  "active": "86e432c9f96fb3a3",
   "lastOpenFiles": [
-    "CSdiynote/JAVA(CS61B)/Sort.md",
-    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
-    "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
-    "CSdiynote/JAVA(CS61B)/Asy.md",
-    "CSdiynote/JAVA(CS61B)/Asymptotics.md",
-    "CSdiynote/JAVA(CS61B)/BT-BST.md",
-    "CSdiynote/JAVA(CS61B)/Dijkstra.md",
-    "CSdiynote/JAVA(CS61B)/Disjoint Sets.md",
-    "CSdiynote/JAVA(CS61B)/Dynamic Programming.md",
-    "CSdiynote/JAVA(CS61B)/equals and contains.md",
-    "CSdiynote/JAVA(CS61B)/Function.md",
-    "CSdiynote/JAVA(CS61B)/Graph.md",
-    "CSdiynote/JAVA(CS61B)/Hash-Code.md",
-    "CSdiynote/JAVA(CS61B)/Hashcode.md",
-    "CSdiynote/JAVA(CS61B)/KD-Tree.md",
-    "CSdiynote/JAVA(CS61B)/MST.md",
+    "Engineer.md",
+    "Full_Stack.md",
+    "System_HardWare.md",
+    "Gameplay.md",
+    "Computer_Science.md",
+    "Computer Graphics.md",
     "CSdiynote/JAVA(CS61B)/pptx.md",
     "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
+    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+    "CSdiynote/JAVA(CS61B)/MST.md",
+    "CSdiynote/JAVA(CS61B)/More_Sort.md",
+    "CSdiynote/JAVA(CS61B)/KD-Tree.md",
+    "CSdiynote/JAVA(CS61B)/Hash-Code.md",
+    "CSdiynote/JAVA(CS61B)/Graph.md",
+    "CSdiynote/JAVA(CS61B)/Function.md",
+    "CSdiynote/JAVA(CS61B)/Dynamic Programming.md",
+    "CSdiynote/JAVA(CS61B)/equals and contains.md",
+    "CSdiynote/JAVA(CS61B)/Disjoint Sets.md",
+    "CSdiynote/JAVA(CS61B)/Dijkstra.md",
+    "CSdiynote/JAVA(CS61B)/BT-BST.md",
+    "CSdiynote/JAVA(CS61B)/Asymptotics.md",
+    "CSdiynote/JAVA(CS61B)/Asy.md",
+    "CSdiynote/JAVA(CS61B)/Sort.md",
+    "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
+    "CSdiynote/JAVA(CS61B)/Hashcode.md",
     "CSdiynote/JAVA(CS61B)/Red-Black-Tree.md",
-    "CSdiynote/JAVA(CS61B)/Stack.md",
-    "CSdiynote/JAVA(CS61B)/Tests.md",
-    "CSdiynote/JAVA(CS61B)/Trie.md",
-    "Random_words/量化.md",
     "Random_words",
-    "未命名.md",
-    "selfideas.md",
-    "README.md",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
     "CSdiynote/JAVA(CS61B)/Photo/D1.png",
