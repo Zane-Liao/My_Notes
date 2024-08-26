@@ -47,12 +47,8 @@
             "id": "ec2c6c3aa7264b0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Graphics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -109,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics.md",
+                "file": "MOOCnote/CS50(series)/CS50AI/Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics.md",
+                "file": "MOOCnote/CS50(series)/CS50AI/Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics.md",
+                "file": "MOOCnote/CS50(series)/CS50AI/Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics.md"
+                "file": "MOOCnote/CS50(series)/CS50AI/Search.md"
               }
             }
           }
@@ -245,6 +241,20 @@
   },
   "active": "86e432c9f96fb3a3",
   "lastOpenFiles": [
+    "MOOCnote/关于机器学习项目和传统软件项目之间的一些区别.md",
+    "MOOCnote/CS50(series)/CS50AI/Search.md",
+    "MOOCnote/CS50(series)/CS50AI",
+    "MOOCnote/CS50(series)",
+    "MOOCnote/未命名.md",
+    "MOOCnote/Computer Science and AI.md",
+    "MOOCnote/Machine Learning/Problems(DP)/Training a Neural Network..md",
+    "MOOCnote/Machine Learning/Problems(DP)/The neural network itself..md",
+    "MOOCnote/Machine Learning/Problems(DP)/Neural Networks Function..md",
+    "MOOCnote/Machine Learning/Problems(DP)/Fitting.md",
+    "MOOCnote/Machine Learning/Problems(DP)/Design of Neural Networks..md",
+    "CSdiynote/JAVA(CS61B)/Sort.md",
+    "CSdiynote/JAVA(CS61B)/More_Sort.md",
+    "CSdiynote/JAVA(CS61B)/BT-BST.md",
     "Engineer.md",
     "Full_Stack.md",
     "System_HardWare.md",
@@ -255,22 +265,10 @@
     "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
     "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
     "CSdiynote/JAVA(CS61B)/MST.md",
-    "CSdiynote/JAVA(CS61B)/More_Sort.md",
     "CSdiynote/JAVA(CS61B)/KD-Tree.md",
     "CSdiynote/JAVA(CS61B)/Hash-Code.md",
     "CSdiynote/JAVA(CS61B)/Graph.md",
     "CSdiynote/JAVA(CS61B)/Function.md",
-    "CSdiynote/JAVA(CS61B)/Dynamic Programming.md",
-    "CSdiynote/JAVA(CS61B)/equals and contains.md",
-    "CSdiynote/JAVA(CS61B)/Disjoint Sets.md",
-    "CSdiynote/JAVA(CS61B)/Dijkstra.md",
-    "CSdiynote/JAVA(CS61B)/BT-BST.md",
-    "CSdiynote/JAVA(CS61B)/Asymptotics.md",
-    "CSdiynote/JAVA(CS61B)/Asy.md",
-    "CSdiynote/JAVA(CS61B)/Sort.md",
-    "CSdiynote/JAVA(CS61B)/Data Structure-G.md",
-    "CSdiynote/JAVA(CS61B)/Hashcode.md",
-    "CSdiynote/JAVA(CS61B)/Red-Black-Tree.md",
     "Random_words",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
@@ -282,12 +280,10 @@
     "CSdiynote/JAVA(CS61B)/Photo",
     "未命名.canvas",
     "LLM",
-    "MOOCnote/未命名",
     "MOOCnote/Machine Learning/Problems(DP)",
     "MOOCnote/Algorithms",
     "MOOCnote/Math/DS_ML_Math(Ng)",
     "MOOCnote/Data Science(Harvard)/Harvard X(edx)",
-    "MOOCnote/Machine Learning/Andnew Ng(ML)",
     "MOOCnote/Data Science(Harvard)/Code Cook/2024-07-13 00_09_34-数据科学简介 - 4 连续概率.png"
   ]
 }
