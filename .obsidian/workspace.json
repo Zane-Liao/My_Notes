@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Search.md",
+                "file": "MOOCnote/CS50(series)/CS50AI/Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Search.md",
+                "file": "MOOCnote/CS50(series)/CS50AI/Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Search.md",
+                "file": "MOOCnote/CS50(series)/CS50AI/Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Search.md"
+                "file": "MOOCnote/CS50(series)/CS50AI/Table.md"
               }
             }
           }
@@ -241,8 +241,9 @@
   },
   "active": "86e432c9f96fb3a3",
   "lastOpenFiles": [
-    "MOOCnote/关于机器学习项目和传统软件项目之间的一些区别.md",
     "MOOCnote/CS50(series)/CS50AI/Search.md",
+    "MOOCnote/CS50(series)/CS50AI/Table.md",
+    "MOOCnote/关于机器学习项目和传统软件项目之间的一些区别.md",
     "MOOCnote/CS50(series)/CS50AI",
     "MOOCnote/CS50(series)",
     "MOOCnote/未命名.md",
@@ -268,7 +269,6 @@
     "CSdiynote/JAVA(CS61B)/KD-Tree.md",
     "CSdiynote/JAVA(CS61B)/Hash-Code.md",
     "CSdiynote/JAVA(CS61B)/Graph.md",
-    "CSdiynote/JAVA(CS61B)/Function.md",
     "Random_words",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
