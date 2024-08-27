@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8c729cb5b90fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Table.md",
+                "file": "AI Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Table.md",
+                "file": "AI Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOOCnote/CS50(series)/CS50AI/Table.md"
+                "file": "AI Definition.md"
               }
             }
           }
@@ -239,10 +251,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "86e432c9f96fb3a3",
+  "active": "b8c729cb5b90fa6c",
   "lastOpenFiles": [
-    "MOOCnote/CS50(series)/CS50AI/Search.md",
     "MOOCnote/CS50(series)/CS50AI/Table.md",
+    "AI Definition.md",
+    "MOOCnote/CS50(series)/CS50AI/Search.md",
     "MOOCnote/关于机器学习项目和传统软件项目之间的一些区别.md",
     "MOOCnote/CS50(series)/CS50AI",
     "MOOCnote/CS50(series)",
@@ -268,7 +281,6 @@
     "CSdiynote/JAVA(CS61B)/MST.md",
     "CSdiynote/JAVA(CS61B)/KD-Tree.md",
     "CSdiynote/JAVA(CS61B)/Hash-Code.md",
-    "CSdiynote/JAVA(CS61B)/Graph.md",
     "Random_words",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
