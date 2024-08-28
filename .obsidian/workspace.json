@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Definition.md",
+                "file": "CSdiynote/JAVA(CS61B)/Zip.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Definition.md",
+                "file": "CSdiynote/JAVA(CS61B)/Zip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Definition.md",
+                "file": "CSdiynote/JAVA(CS61B)/Zip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Definition.md"
+                "file": "CSdiynote/JAVA(CS61B)/Zip.md"
               }
             }
           }
@@ -253,7 +253,12 @@
   },
   "active": "b8c729cb5b90fa6c",
   "lastOpenFiles": [
+    "MOOCnote/CS50(series)/CS50AI/Uncertainty.md",
+    "CSdiynote/JAVA(CS61B)/Zip.md",
     "MOOCnote/CS50(series)/CS50AI/Table.md",
+    "CSdiynote/JAVA(CS61B)/Sort.md",
+    "AI_Definition.md",
+    "Computer_Science.md",
     "AI Definition.md",
     "MOOCnote/CS50(series)/CS50AI/Search.md",
     "MOOCnote/关于机器学习项目和传统软件项目之间的一些区别.md",
@@ -266,21 +271,16 @@
     "MOOCnote/Machine Learning/Problems(DP)/Neural Networks Function..md",
     "MOOCnote/Machine Learning/Problems(DP)/Fitting.md",
     "MOOCnote/Machine Learning/Problems(DP)/Design of Neural Networks..md",
-    "CSdiynote/JAVA(CS61B)/Sort.md",
     "CSdiynote/JAVA(CS61B)/More_Sort.md",
     "CSdiynote/JAVA(CS61B)/BT-BST.md",
     "Engineer.md",
     "Full_Stack.md",
     "System_HardWare.md",
     "Gameplay.md",
-    "Computer_Science.md",
     "Computer Graphics.md",
     "CSdiynote/JAVA(CS61B)/pptx.md",
     "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
     "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
-    "CSdiynote/JAVA(CS61B)/MST.md",
-    "CSdiynote/JAVA(CS61B)/KD-Tree.md",
-    "CSdiynote/JAVA(CS61B)/Hash-Code.md",
     "Random_words",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
