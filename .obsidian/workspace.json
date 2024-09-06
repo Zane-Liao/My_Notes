@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Zip.md",
+                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Zip.md",
+                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Zip.md",
+                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Zip.md"
+                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md"
               }
             }
           }
@@ -251,13 +251,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b8c729cb5b90fa6c",
+  "active": "d0f5996a90ce2757",
   "lastOpenFiles": [
-    "MOOCnote/CS50(series)/CS50AI/Uncertainty.md",
+    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
+    "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
+    "CSdiynote/JAVA(CS61B)/Design Document",
+    "CSdiynote/JAVA(CS61B)/IJ.md",
+    "CSdiynote/JAVA(CS61B)/BT-BST.md",
+    "CSdiynote/JAVA(CS61B)/Dijkstra.md",
+    "CSdiynote/JAVA(CS61B)/Graph.md",
+    "Note/web.md",
+    "CSdiynote/JAVA(CS61B)/P=NP.md",
+    "AI_Definition.md",
+    "selfideas.md",
+    "System_HardWare.md",
+    "README.md",
+    "Random_words/量化.md",
     "CSdiynote/JAVA(CS61B)/Zip.md",
+    "MOOCnote/CS50(series)/CS50AI/Uncertainty.md",
     "MOOCnote/CS50(series)/CS50AI/Table.md",
     "CSdiynote/JAVA(CS61B)/Sort.md",
-    "AI_Definition.md",
     "Computer_Science.md",
     "AI Definition.md",
     "MOOCnote/CS50(series)/CS50AI/Search.md",
@@ -269,18 +282,6 @@
     "MOOCnote/Machine Learning/Problems(DP)/Training a Neural Network..md",
     "MOOCnote/Machine Learning/Problems(DP)/The neural network itself..md",
     "MOOCnote/Machine Learning/Problems(DP)/Neural Networks Function..md",
-    "MOOCnote/Machine Learning/Problems(DP)/Fitting.md",
-    "MOOCnote/Machine Learning/Problems(DP)/Design of Neural Networks..md",
-    "CSdiynote/JAVA(CS61B)/More_Sort.md",
-    "CSdiynote/JAVA(CS61B)/BT-BST.md",
-    "Engineer.md",
-    "Full_Stack.md",
-    "System_HardWare.md",
-    "Gameplay.md",
-    "Computer Graphics.md",
-    "CSdiynote/JAVA(CS61B)/pptx.md",
-    "CSdiynote/JAVA(CS61B)/PriorityQueue.md",
-    "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
     "Random_words",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
@@ -295,7 +296,6 @@
     "MOOCnote/Machine Learning/Problems(DP)",
     "MOOCnote/Algorithms",
     "MOOCnote/Math/DS_ML_Math(Ng)",
-    "MOOCnote/Data Science(Harvard)/Harvard X(edx)",
     "MOOCnote/Data Science(Harvard)/Code Cook/2024-07-13 00_09_34-数据科学简介 - 4 连续概率.png"
   ]
 }
