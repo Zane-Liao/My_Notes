@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
+                "file": "CSdiynote/JAVA(CS61B)/Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
+                "file": "CSdiynote/JAVA(CS61B)/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
+                "file": "CSdiynote/JAVA(CS61B)/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md"
+                "file": "CSdiynote/JAVA(CS61B)/Collection.md"
               }
             }
           }
@@ -251,15 +251,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0f5996a90ce2757",
+  "active": "b8c729cb5b90fa6c",
   "lastOpenFiles": [
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言概率.md",
+    "CSdiynote/JAVA(CS61B)/Collection.md",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言可视化.md",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言机器学习.md",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言基础.md",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言文档.md",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言统计与建模.md",
+    "MOOCnote/Data Science(Harvard)/Harvard X(edx)/Code Cook/R语言数据清洗.md",
+    "MOOCnote/Machine Learning/Problems(DP)/Fitting.md",
+    "MOOCnote/Machine Learning/Problems(DP)/Design of Neural Networks..md",
+    "CSdiynote/JAVA(CS61B)/Graph.md",
     "CSdiynote/JAVA(CS61B)/My Homeworks and labs, projects.md",
     "CSdiynote/JAVA(CS61B)/Design Document/MyHashMap.md",
     "CSdiynote/JAVA(CS61B)/Design Document",
     "CSdiynote/JAVA(CS61B)/IJ.md",
     "CSdiynote/JAVA(CS61B)/BT-BST.md",
     "CSdiynote/JAVA(CS61B)/Dijkstra.md",
-    "CSdiynote/JAVA(CS61B)/Graph.md",
     "Note/web.md",
     "CSdiynote/JAVA(CS61B)/P=NP.md",
     "AI_Definition.md",
@@ -270,18 +280,8 @@
     "CSdiynote/JAVA(CS61B)/Zip.md",
     "MOOCnote/CS50(series)/CS50AI/Uncertainty.md",
     "MOOCnote/CS50(series)/CS50AI/Table.md",
-    "CSdiynote/JAVA(CS61B)/Sort.md",
-    "Computer_Science.md",
-    "AI Definition.md",
-    "MOOCnote/CS50(series)/CS50AI/Search.md",
-    "MOOCnote/关于机器学习项目和传统软件项目之间的一些区别.md",
     "MOOCnote/CS50(series)/CS50AI",
     "MOOCnote/CS50(series)",
-    "MOOCnote/未命名.md",
-    "MOOCnote/Computer Science and AI.md",
-    "MOOCnote/Machine Learning/Problems(DP)/Training a Neural Network..md",
-    "MOOCnote/Machine Learning/Problems(DP)/The neural network itself..md",
-    "MOOCnote/Machine Learning/Problems(DP)/Neural Networks Function..md",
     "Random_words",
     "Ideas",
     "CSdiynote/JAVA(CS61B)/Photo/D2.png",
