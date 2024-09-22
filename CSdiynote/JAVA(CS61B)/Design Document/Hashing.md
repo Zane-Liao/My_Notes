@@ -1,4 +1,4 @@
-此小型文档旨在写lab8: HashMap。作为一份设计文档，它包含了实现原理和实现方法，还有将其他数据结构与此实现结构作为比较（运行时间）。
+作为一份设计文档，它包含了实现原理和实现方法，还有将其他数据结构与此实现结构作为比较（运行时间）。
 
 
 get()查找 `HashMap` 通过key的hashcode()找到对应的index，然后遍历该位置的链表或树，找到匹配的key并返回对应的value。
@@ -64,35 +64,38 @@ HashMap Representation with Key-Value Pairs:
 |                      |     |   [key4, value4]         |
 +----------------------+     +--------------------------+
 
+--------
 
-/**
-* 返回一个要放置在哈希表存储桶中的新节点
-*/
+这段文字描述了对 `ComplexOomage` 类的 `hashCode` 方法进行评估和测试的需求。总结如下：
 
-/**
-* 返回一个要作为哈希表存储桶的数据结构
-*
-* 哈希表存储桶的唯一要求是我们可以：
-* 1. 插入项目（“add”方法）
-* 2. 删除项目（“remove”方法）
-* 3. 遍历项目（“iterator”方法）
-*
-* java.util.Collection 支持这些方法中的每一种方法，
-* Java 中的大多数数据结构都继承自 Collection，因此我们
-* 可以使用几乎任何数据结构作为存储桶。
-*
-* 重写此方法以使用不同的数据结构作为
-* 底层存储桶类型
-*
-* 请务必调用此工厂方法，而不是使用 NEW 运算符创建您自己的存储桶数据结构！
-*/
+### 需求
+1. **理解 `ComplexOomage` 类的结构**：
+   - `ComplexOomage` 是一个更复杂的类，与简单的 `Oomage` 类不同，它包含一个整数列表而不是三个固定的颜色值（`red`、`green` 和 `blue`）。
+   - 整数列表的长度和内容可以变化，且每个整数都在 0 到 255 之间。
 
-/**
-* 返回一个表来支持我们的哈希表。根据上面的注释
-*，此表可以是 Collection 对象的数组
-*
-* 创建表时务必调用此工厂方法，以便
-* 所有 BUCKET 类型均为 JAVA.UTIL.COLLECTION
-*
-* @param tableSize 要创建的表的大小
-*/
+2. **不修改 `ComplexOomage` 类**：
+   - 在这次任务中，不需要修改 `ComplexOomage` 类或其 `hashCode` 方法。任务的重点在于测试和评估其 `hashCode` 方法的表现。
+
+3. **测试 `hashCode` 方法的缺陷**：
+   - 编写测试用例，专门查找 `ComplexOomage` 的 `hashCode` 函数中潜在的缺陷，特别是在对象分布不均的问题上。
+   - 使用 `randomComplexOomage` 方法生成随机的 `ComplexOomage` 对象，并通过可视化工具和测试用例检查 `hashCode` 的分布情况。
+
+4. **评估 `hashCode` 的分布性能**：
+   - 通过 `testRandomOomagesHashCodeSpread` 测试和可视化工具检查随机生成的 `ComplexOomage` 对象的 `hashCode` 分布情况。
+   - 对于随机对象，`hashCode` 的表现可能是良好的（通过测试）。
+
+5. **针对特殊情况编写测试（testWithDeadlyParams）**：
+   - 编写 `testWithDeadlyParams` 测试，设计一组特定的 `ComplexOomage` 对象，使得它们在 `hashCode` 的计算中表现出明显的分布不均问题，从而导致哈希冲突和性能问题。
+   - 该测试要求利用二进制表示整数的知识来构造测试数据，以暴露 `hashCode` 方法的缺陷。
+
+6. **评估测试结果**：
+   - 运行 `testWithDeadlyParams`，如果 `ComplexOomage` 的 `hashCode` 方法在特定数据上分布不均匀并导致测试失败，说明该方法存在问题。
+
+7. **修复（可选）**：
+   - 如果找到了 `hashCode` 方法的缺陷，可以尝试修改 `ComplexOomage` 的 `hashCode` 实现，使 `testWithDeadlyParams` 通过测试。
+   - 需要考虑是否还存在其他可能导致 `hashCode` 分布不良的参数组合。
+
+### 目标
+- 找出 `ComplexOomage` 的 `hashCode` 方法在特殊情况下可能出现的分布不均问题。
+- 编写针对这些问题的测试用例，验证 `hashCode` 方法是否能够有效地将对象分布在哈希表中。
+- 最终确认 `ComplexOomage` 类的 `hashCode` 方法在所有情况下都能表现良好，或者指出其缺陷并进行改进。
